@@ -4,8 +4,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgwk42&langs_count=8)](https://github.com/lgwk42/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgwk42&show_icons=true&theme=white)
 
-***
-
 ## 🚀 skills
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)](https://spring.org/)
 [![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)](https://springboot.org/)
