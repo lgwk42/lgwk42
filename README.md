@@ -24,7 +24,7 @@
   [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
   ## 📞 Contact
-  - [**Email**](mailto:luisgunkim@gmail.com)
-  - [**Instagram**](https://www.instagram.com/rjs_dn.06/)
+  [**Email**](mailto:luisgunkim@gmail.com)<p>
+  [**Instagram**](https://www.instagram.com/rjs_dn.06/)
 </div>
     
