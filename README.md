@@ -1,9 +1,22 @@
-<div align="center">
+<div>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=BackEnd%20Developer&fontSize=50&animation=fadeIn&fontAlignY=40&desc=lgwk42" alt="header">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgwk42&langs_count=8)](https://github.com/lgwk42/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgwk42&show_icons=true&theme=white)
 
+  ## 📈 My Career
+### 2023
+<aside>
+💡 대구소프트웨어고등학교 8기 재학중 (2023.3 ~)
+<br>
+💡 대구소프트웨어마이스고등학교 기숙사 관리 프로그램 "Qvick" 개발 팀장 (2023.8 ~)
+<br>
+💡 대구소프트웨어마이스고등학교 자율동아리 "HashTag" 부장 역임 (2023.7 ~)
+<br>
+💡 유치원 관리 프로그램 "다솜" 개발 팀장 (2023.12 ~)
+</aside>
+  
+  
   ## 🚀 Skills
   [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)](https://spring.org/)
   [![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge)](https://springboot.org/)
