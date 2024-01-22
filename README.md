@@ -1,7 +1,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=BackEnd%20Developer&fontSize=50&animation=fadeIn&fontAlignY=40&desc=lgwk42" alt="header">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgwk42&theme=swift&langs_count=10&layout=compact)]()
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgwk42&show_icons=true&theme=white)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgwk42&theme=white&langs_count=10&layout=compact)]()
 
   ## 📈 My Career
 ### 2023
@@ -14,6 +14,7 @@
 <br>
 💡 유치원 관리 프로그램 "다솜" PM / CTO (2023.12 ~)
 </aside>
+
 ### 2024
   
   
