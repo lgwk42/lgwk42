@@ -14,8 +14,11 @@
 </aside>
 
 ### 2024
+<aside>
+💡 삼디 서버 팀장 역임 (2024.3 ~)
+<br>
 
-  
+</aside>
   
   ## 🚀 Skills
   [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge)](https://spring.org/)
