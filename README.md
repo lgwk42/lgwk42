@@ -41,7 +41,6 @@
   [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
   ## 📞 Contact
-  [**Email**](mailto:luisgunkim@gmail.com)<p>
-  [**Instagram**](https://www.instagram.com/rjs_dn.06/)<p>
-  [**Portfolio**](https://url.kr/pxrkei)
+<a href=https://www.instagram.com/rjs_dn.06/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https:[//www.instagram.com/_bibiga/](https://www.instagram.com/rjs_dn.06/)"> </a>
+<a href=https://luisgunkim0642.notion.site/15fc80c3b2614cc8a23710194981a809> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://luisgunkim0642.notion.site/15fc80c3b2614cc8a23710194981a809"> </a>
     
