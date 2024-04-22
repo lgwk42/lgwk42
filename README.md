@@ -1,5 +1,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e63b7a,100:a8c6fe&height=200&section=header&text=Server%20Developer%20lgwk42&fontSize=40&animation=fadeIn&fontAlignY=40" alt="header">
 
+### 열정적인 백엔드 개발자 김건우입니다 🤗
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgwk42&show_icons=true&theme=white)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgwk42&theme=white&langs_count=10&layout=compact)]()
 
