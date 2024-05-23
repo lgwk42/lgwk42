@@ -1,5 +1,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e63b7a,100:a8c6fe&height=200&section=header&text=Server%20Developer%20lgwk42&fontSize=40&animation=fadeIn&fontAlignY=40" alt="header">
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/lgwk42?pet-id=2" width="1000" height="120"/>
+</a>
+
 ### 👋🏻 열정적인 백엔드 개발자 김건우입니다 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgwk42&show_icons=true&theme=white)
@@ -42,4 +46,3 @@
   ## 📞 Contact
 <a href=https://www.instagram.com/rjs_dn.06/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https:[//www.instagram.com/_bibiga/](https://www.instagram.com/rjs_dn.06/)"> </a>
 <a href=https://luisgunkim0642.notion.site/15fc80c3b2614cc8a23710194981a809> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://luisgunkim0642.notion.site/15fc80c3b2614cc8a23710194981a809"> </a>
-    
