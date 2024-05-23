@@ -1,7 +1,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e63b7a,100:a8c6fe&height=200&section=header&text=Server%20Developer%20lgwk42&fontSize=40&animation=fadeIn&fontAlignY=40" alt="header">
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/lgwk42?pet-id=2" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/lgwk42?pet-id=2" width="150000" height="140"/>
 </a>
 
 ### 👋🏻 열정적인 백엔드 개발자 김건우입니다 
