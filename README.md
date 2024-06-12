@@ -1,6 +1,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e63b7a,100:a8c6fe&height=200&section=header&text=열정적인%20백엔드%20개발자,%20김건우입니다.&fontSize=40&animation=fadeIn&fontAlignY=40" alt="header">
+
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/lgwk42?pet-id=1" width="150000" height="140"/>
+  <img
+    src="https://render.gitanimals.org/lines/lgwk42?pet-id=581449351025606235"
+    width="800"
+    height="120"
+  />
 </a>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lgwk42&show_icons=true&theme=white)
