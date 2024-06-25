@@ -2,9 +2,9 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/lgwk42?pet-id=581449351025606235"
-    width="800"
-    height="120"
+    src="https://render.gitanimals.org/lines/lgwk42?pet-id=587181348183179498"
+    width="700"
+    height="250"
   />
 </a>
 
