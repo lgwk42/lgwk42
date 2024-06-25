@@ -4,7 +4,7 @@
   <img
     src="https://render.gitanimals.org/lines/lgwk42?pet-id=587181348183179498"
     width="700"
-    height="250"
+    height="200"
   />
 </a>
 
