@@ -10,8 +10,8 @@
   
   [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)](https://spring.org/)
   [![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)](https://springboot.org/)
-  [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)](https://www.java.com/ko/)
-  [![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazonaws&logoColor=white&style=flat-square)](https://aws.amazon.com/ko/)
+  [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=OpenJDK&logoColor=white)](https://www.java.com/ko/)
+  [![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazon&logoColor=white&style=flat-square)](https://aws.amazon.com/ko/)
   [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
 
 <a href="https://github.com/devxb/gitanimals">
