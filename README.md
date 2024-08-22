@@ -7,7 +7,7 @@
 <a href="https://github.com/lgwk42">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flgwk42%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)</a>
 <a href=https://luisgunkim0642.notion.site/15fc80c3b2614cc8a23710194981a809> <img src="https://img.shields.io/badge/Notion-fff?style=flat-square&logo=Notion&logoColor=black&link=https://luisgunkim0642.notion.site/15fc80c3b2614cc8a23710194981a809"> </a>
 
-<img src="" width="30" height="30"></img>
+<img src="https://github.com/lgwk42/lgwk42/blob/main/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966.gif" width="30" height="30"></img>
 
 ---
   
