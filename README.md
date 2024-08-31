@@ -21,7 +21,7 @@
   <img
     src="https://render.gitanimals.org/lines/lgwk42?pet-id=587181348183179498"
     width="800"
-    height="300"
+    height="350"
   />
 </a>
 
