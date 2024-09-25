@@ -16,8 +16,6 @@
   [![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazon&logoColor=white&style=flat-square)](https://aws.amazon.com/ko/)
   [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/lgwk42?pet-id=587181348183179498"
