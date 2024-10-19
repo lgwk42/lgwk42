@@ -1,5 +1,5 @@
 <div align="center">
-<h1> 👋🏻 Hi I'm Gun Woo Kim, BackEnd Developer </h1>
+<h1> 백엔드 개발자 김건우입니다. </h1>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgwk42&theme=white&langs_count=10&layout=compact)]() <p>
 
