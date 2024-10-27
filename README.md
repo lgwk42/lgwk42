@@ -9,8 +9,7 @@
 <img src="https://github.com/lgwk42/lgwk42/blob/main/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966.gif" width="30" height="30"></img>
 
 ---
-  
-  [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)](https://spring.org/)
+   [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)](https://spring.org/)
   [![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)](https://springboot.org/)
   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=OpenJDK&logoColor=white)](https://www.java.com/ko/)
   [![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazon&logoColor=white&style=flat-square)](https://aws.amazon.com/ko/)
