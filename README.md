@@ -7,8 +7,6 @@
 <a href=https://luisgunkim0642.notion.site/15fc80c3b2614cc8a23710194981a809> <img src="https://img.shields.io/badge/Notion-fff?style=flat-square&logo=Notion&logoColor=black&link=https://luisgunkim0642.notion.site/15fc80c3b2614cc8a23710194981a809"> </a>
 
 <img src="https://github.com/lgwk42/lgwk42/blob/main/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f6c6170746f705f706172726f742e676966.gif" width="30" height="30"></img>
-
----
    [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=flat-square)](https://spring.org/)
   [![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat-square)](https://springboot.org/)
   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=OpenJDK&logoColor=white)](https://www.java.com/ko/)
