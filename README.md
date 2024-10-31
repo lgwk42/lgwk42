@@ -12,14 +12,6 @@
   [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=OpenJDK&logoColor=white)](https://www.java.com/ko/)
   [![AWS](https://img.shields.io/badge/aws-232F3E?logo=amazon&logoColor=white&style=flat-square)](https://aws.amazon.com/ko/)
   [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/lgwk42?pet-id=587181348183179498"
-    width="800"
-    height="180"
-  />
-</a>
 </div>
 
 
