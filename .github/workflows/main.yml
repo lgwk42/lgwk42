@@ -20,5 +20,5 @@ jobs:
           git config user.name lgwk42
           git config user.email luisgunkim@gmail.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "fix: profile 3d images"
           git push
