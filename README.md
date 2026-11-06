@@ -1,4 +1,4 @@
-## 🫠 백엔드 개발자 김건우입니다
+## 🫠 백엔드 개발자 김건우입니다 ![](https://drive.google.com/file/d/1HJz6q_SA0Lr-8bPeZQDOYhyStgHP3iY1/view)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=lgwk42&custom_title=Luis%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=lgwk42&custom_title=Luis%27s%20Github%20Stats&show_icons=true&include_all_commits=true&theme=dark)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=lgwk42&layout=compact&langs_count=7&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=lgwk42&layout=compact&langs_count=7&theme=dark)
