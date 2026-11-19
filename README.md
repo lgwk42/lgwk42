@@ -18,6 +18,6 @@
 
 ## Contact
 
-[![Velog](https://img.shields.io/badge/Blog-20C997?&style=flat-square&logo=velog&logoColor=white)](https://velog.io/@lgwk0642/posts)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=lgwk0642)](https://velog.io/@lgwk0642)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luisgunkim@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kgw06/)
